@@ -1,0 +1,7 @@
+# Local tool and editor files: never publish
+.claude/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+.env*
